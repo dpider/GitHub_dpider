@@ -1,0 +1,6 @@
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\bin\Debug\pde.net.console.exe.config
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\bin\Debug\pde.net.console.exe
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\bin\Debug\pde.net.console.pdb
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\obj\Debug\pde.net.console.csprojResolveAssemblyReference.cache
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\obj\Debug\pde.net.console.exe
+D:\代码\PDE.NET.PLATFORM\CODE\pde.net.console\obj\Debug\pde.net.console.pdb

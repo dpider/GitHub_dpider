@@ -1,0 +1,10 @@
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\pde.net.common\bin\Debug\pde.net.common.dll
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\pde.net.common\bin\Debug\pde.net.common.pdb
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\pde.net.common\obj\Debug\pde.net.common.dll
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\pde.net.common\obj\Debug\pde.net.common.pdb
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\bin\Debug\pde.net.common.dll
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\bin\Debug\pde.net.common.pdb
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\obj\Debug\pde.net.common.dll
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\obj\Debug\pde.net.common.pdb
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\obj\Debug\pde.net.common.csprojResolveAssemblyReference.cache
+D:\P9插件\01.插件集合\CODE(.net版)\PDE.NET.COMMON\bin\Debug\ICSharpCode.SharpZipLib.dll

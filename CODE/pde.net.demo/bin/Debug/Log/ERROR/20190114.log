@@ -1,0 +1,8 @@
+09:58:16 5292  [Plat]  文件上传URL："http://47.105.204.91"  上传失败：HTTP返回：405
+09:58:46 0949  [Plat]  OnReadData：上传起始字节：0，发生错误：无法将类型为“System.Byte[]”的对象强制转换为类型“System.IO.FileStream”。
+09:58:46 1239  [Plat]  文件上传URL："http://47.105.204.91/upload.php"  上传失败：无法将类型为“System.Byte[]”的对象强制转换为类型“System.IO.FileStream”。
+10:00:02 7208  [Plat]  OnReadData：上传起始字节：0，发生错误：无法将类型为“System.Byte[]”的对象强制转换为类型“System.IO.FileStream”。
+10:00:31 4303  [Plat]  OnReadData：上传起始字节：0，发生错误：无法将类型为“System.Byte[]”的对象强制转换为类型“System.IO.FileStream”。
+10:34:09 2797  [Plat]  文件上传URL："http://47.105.204.91/upload3.php"  上传失败：HTTP返回：100
+10:48:47 9085  [Plat]  文件上传URL："http://47.105.204.91/tmp/"  上传失败：HTTP返回：405
+13:33:24 2611  [Plat]  文件上传URL："http://10.20.20.228:80/p961/AmsArchiveFiles/batchAddNew/"  上传失败：HTTP返回：403
